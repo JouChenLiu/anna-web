@@ -17,49 +17,56 @@ const data = [
     image: IMG0,
     title: ['畢業專題', 'CAN - 舒緩情緒最佳的夥伴'],
     github: 'https://github.com/JouChenLiu/APP-CAN_Music_Emotion_Recognition_Application',
-    demo: 'https://youtu.be/AdOh6mfwlug'
+    demo: 'https://youtu.be/AdOh6mfwlug',
+    visibility: 'visible' // demo button 設定為顯示
   },
   {
     id: 1,
     image: IMG1,
     title: ['系統分析與設計 可議價之二手書網站'],
     github: 'https://github.com/JouChenLiu/Second-Hand_Bookstore_Platform_in_class_system_analysis_and_design',
-    // demo: ''
+    demo: '',
+    visibility: 'hidden' // demo button 設定為隱藏
   },
   {
     id: 2,
     image: IMG2,
     title: ['資料科學 桃園市交通改善計畫'],
     github: 'https://github.com/JouChenLiu/DS_teamproject_team8',
-    // demo: ''
+    demo: '',
+    visibility: 'hidden' // demo button 設定為隱藏
   },
   {
     id: 3,
     image: IMG3,
     title: ['資料庫管理 餐廳外送平台'],
     github: 'https://github.com/JouChenLiu/Food_Delivery_Platform_in_class_database_management',
-    // demo: ''
+    demo: '',
+    visibility: 'hidden' // demo button 設定為隱藏
   },
   {
     id: 4,
     image: IMG4,
     title: ['TCP Socket 多人聊天室'],
     github: 'https://github.com/JouChenLiu/Socket-Project_Multiplayer-Chat-Room_in_class_computer_network',
-    // demo: ''
+    demo: '',
+    visibility: 'hidden' // demo button 設定為隱藏
   },
   {
     id: 5,
     image: IMG5,
     title: ['Java 實作記事本'],
     github: 'https://github.com/JouChenLiu/Notepad_in_class_advanced_java',
-    // demo: ''
+    demo: '',
+    visibility: 'hidden' // demo button 設定為隱藏
   },
   {
     id: 6,
     image: IMG6,
     title: ['Java 實作小畫家'],
     github: 'https://github.com/JouChenLiu/Paint_in_class_advanced_java',
-    // demo: ''
+    demo: '',
+    visibility: 'hidden' // demo button 設定為隱藏
   },
 ]
 
@@ -71,7 +78,7 @@ const Portfolio = () => {
 
       <div className='container portfolio_container'>
         {
-          data.map(({id, image, title, github, demo}) => {
+          data.map(({id, image, title, github, demo, visibility}) => {
             return (
               <article key={id} className='portfolio_item'>
                 <div className='portfolio_item-image'>
@@ -80,7 +87,7 @@ const Portfolio = () => {
                 <h3>{title[0]}<br/>{title[1]}</h3>
                 <div className='portfolio_item-cta'>
                   <a href={github} className='btn' target='_blank' rel="noreferrer">Github</a>
-                  <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Demo</a>
+                  <a href={demo} style={visibility={visibility}} className='btn btn-primary' target='_blank' rel="noreferrer">Demo</a>
                 </div>
               </article>
             )
