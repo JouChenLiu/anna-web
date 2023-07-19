@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anna-web/static/css/main.ada6b30a.css",
-    "main.js": "/anna-web/static/js/main.b32cee4f.js",
+    "main.js": "/anna-web/static/js/main.2f611f21.js",
     "static/media/中文履歷.pdf": "/anna-web/static/media/中文履歷.41259ca70eecc0126425.pdf",
     "static/media/poster.jpg": "/anna-web/static/media/poster.38d454cf299b94378643.jpg",
     "static/media/TOEIC_760.jpg": "/anna-web/static/media/TOEIC_760.7703ca7a2ece1fc9f734.jpg",
@@ -18,10 +18,10 @@
     "static/media/Java實作小畫家.png": "/anna-web/static/media/Java實作小畫家.485d5cddc0a0cce7a512.png",
     "index.html": "/anna-web/index.html",
     "main.ada6b30a.css.map": "/anna-web/static/css/main.ada6b30a.css.map",
-    "main.b32cee4f.js.map": "/anna-web/static/js/main.b32cee4f.js.map"
+    "main.2f611f21.js.map": "/anna-web/static/js/main.2f611f21.js.map"
   },
   "entrypoints": [
     "static/css/main.ada6b30a.css",
-    "static/js/main.b32cee4f.js"
+    "static/js/main.2f611f21.js"
   ]
 }
