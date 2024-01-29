@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/anna-web/static/css/main.c535c665.css",
-    "main.js": "/anna-web/static/js/main.baa7843e.js",
+    "main.css": "/anna-web/static/css/main.d7a16ad4.css",
+    "main.js": "/anna-web/static/js/main.6951b3a3.js",
+    "static/media/中文履歷.pdf": "/anna-web/static/media/中文履歷.4afd456aab69b9169236.pdf",
     "static/media/poster.jpg": "/anna-web/static/media/poster.38d454cf299b94378643.jpg",
-    "static/media/中文履歷.pdf": "/anna-web/static/media/中文履歷.f3c8d7cd10eed759ade9.pdf",
     "static/media/TOEIC_760.jpg": "/anna-web/static/media/TOEIC_760.7703ca7a2ece1fc9f734.jpg",
     "static/media/111學年度中央資管專題競賽.jpg": "/anna-web/static/media/111學年度中央資管專題競賽.b2ca0edf4fa077fab56b.jpg",
     "static/media/Multicast.png": "/anna-web/static/media/Multicast.f824369802f50b2bab39.png",
@@ -13,7 +13,7 @@
     "static/media/NTUST2.png": "/anna-web/static/media/NTUST2.3239f7b9cd053ceaa9ae.png",
     "static/media/資料庫管理_餐廳外送平台.png": "/anna-web/static/media/資料庫管理_餐廳外送平台.97c59ac04e8c436cc86f.png",
     "static/media/計算機網路Socket Project_多人聊天室.png": "/anna-web/static/media/計算機網路Socket Project_多人聊天室.367b8a2b2add8145f0a7.png",
-    "static/media/English_Resume.pdf": "/anna-web/static/media/English_Resume.3596b233f6b8c8ef5092.pdf",
+    "static/media/English_Resume.pdf": "/anna-web/static/media/English_Resume.fecffdecf028c7744854.pdf",
     "static/media/系統分析與設計_可議價之二手書網站.png": "/anna-web/static/media/系統分析與設計_可議價之二手書網站.bafe0cf70d8c1e46072c.png",
     "static/media/資料科學_桃園市交通改善計畫.png": "/anna-web/static/media/資料科學_桃園市交通改善計畫.d7027bbb624b48403c33.png",
     "static/media/Java實作記事本.png": "/anna-web/static/media/Java實作記事本.8efbb1de83bc5a42b6ff.png",
@@ -21,11 +21,11 @@
     "static/media/NCU.png": "/anna-web/static/media/NCU.e4b21c376d0454a4981f.png",
     "static/media/NCUEMBA.jpg": "/anna-web/static/media/NCUEMBA.a06f8ba9cf4084347ef4.jpg",
     "index.html": "/anna-web/index.html",
-    "main.c535c665.css.map": "/anna-web/static/css/main.c535c665.css.map",
-    "main.baa7843e.js.map": "/anna-web/static/js/main.baa7843e.js.map"
+    "main.d7a16ad4.css.map": "/anna-web/static/css/main.d7a16ad4.css.map",
+    "main.6951b3a3.js.map": "/anna-web/static/js/main.6951b3a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c535c665.css",
-    "static/js/main.baa7843e.js"
+    "static/css/main.d7a16ad4.css",
+    "static/js/main.6951b3a3.js"
   ]
 }
