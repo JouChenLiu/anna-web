@@ -64,6 +64,22 @@
     font-size: 0.8rem;
 } */
 
+.job_option button {
+    margin-inline-start: auto;
+}
+.intro_ADD{
+    background: none;
+    color: var(--color-light);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+}
+.intro_ADD:hover {
+    text-decoration: underline;
+}
+
 /* =============== MEDIA QUERIES (MEDIUM DEVICES) =============== */
 @media screen and (max-width: 1024px) {
     .container.job_container {
