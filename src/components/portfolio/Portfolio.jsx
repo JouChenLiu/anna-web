@@ -7,6 +7,7 @@ import IMG3 from '../../assets/資料庫管理_餐廳外送平台.png'
 import IMG4 from '../../assets/計算機網路Socket Project_多人聊天室.png'
 import IMG5 from '../../assets/Java實作記事本.png'
 import IMG6 from '../../assets/Java實作小畫家.png'
+import IMG7 from '../../assets/工件辨識.PNG'
 
 // Do not use the images in production!!!
 
@@ -65,6 +66,14 @@ const data = [
     image: IMG6,
     title: ['Java 實作小畫家'],
     github: 'https://github.com/JouChenLiu/Paint_in_class_advanced_java',
+    demo: '',
+    visibility: 'hidden' // demo button 設定為隱藏
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: ['機器學習 工件辨識'],
+    github: 'https://github.com/JouChenLiu/WorkpieceIdentification_in_class_algorithm',
     demo: '',
     visibility: 'hidden' // demo button 設定為隱藏
   },
