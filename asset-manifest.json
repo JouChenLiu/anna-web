@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anna-web/static/css/main.d7a16ad4.css",
-    "main.js": "/anna-web/static/js/main.6951b3a3.js",
+    "main.js": "/anna-web/static/js/main.57e29a0f.js",
     "static/media/中文履歷.pdf": "/anna-web/static/media/中文履歷.4afd456aab69b9169236.pdf",
     "static/media/poster.jpg": "/anna-web/static/media/poster.38d454cf299b94378643.jpg",
     "static/media/TOEIC_760.jpg": "/anna-web/static/media/TOEIC_760.7703ca7a2ece1fc9f734.jpg",
@@ -17,15 +17,16 @@
     "static/media/系統分析與設計_可議價之二手書網站.png": "/anna-web/static/media/系統分析與設計_可議價之二手書網站.bafe0cf70d8c1e46072c.png",
     "static/media/資料科學_桃園市交通改善計畫.png": "/anna-web/static/media/資料科學_桃園市交通改善計畫.d7027bbb624b48403c33.png",
     "static/media/Java實作記事本.png": "/anna-web/static/media/Java實作記事本.8efbb1de83bc5a42b6ff.png",
+    "static/media/工件辨識.PNG": "/anna-web/static/media/工件辨識.ce47c784912b482c62e3.PNG",
     "static/media/Java實作小畫家.png": "/anna-web/static/media/Java實作小畫家.485d5cddc0a0cce7a512.png",
     "static/media/NCU.png": "/anna-web/static/media/NCU.e4b21c376d0454a4981f.png",
     "static/media/NCUEMBA.jpg": "/anna-web/static/media/NCUEMBA.a06f8ba9cf4084347ef4.jpg",
     "index.html": "/anna-web/index.html",
     "main.d7a16ad4.css.map": "/anna-web/static/css/main.d7a16ad4.css.map",
-    "main.6951b3a3.js.map": "/anna-web/static/js/main.6951b3a3.js.map"
+    "main.57e29a0f.js.map": "/anna-web/static/js/main.57e29a0f.js.map"
   },
   "entrypoints": [
     "static/css/main.d7a16ad4.css",
-    "static/js/main.6951b3a3.js"
+    "static/js/main.57e29a0f.js"
   ]
 }
