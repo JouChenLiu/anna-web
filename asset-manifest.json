@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/anna-web/static/css/main.d7a16ad4.css",
-    "main.js": "/anna-web/static/js/main.76af80dc.js",
+    "main.css": "/anna-web/static/css/main.34b4a735.css",
+    "main.js": "/anna-web/static/js/main.9414c81f.js",
     "static/media/poster.jpg": "/anna-web/static/media/poster.38d454cf299b94378643.jpg",
     "static/media/中文履歷.pdf": "/anna-web/static/media/中文履歷.61fd0af8032b9c8331dd.pdf",
     "static/media/TOEIC_760.jpg": "/anna-web/static/media/TOEIC_760.7703ca7a2ece1fc9f734.jpg",
@@ -9,6 +9,7 @@
     "static/media/Multicast.png": "/anna-web/static/media/Multicast.f824369802f50b2bab39.png",
     "static/media/畢業jump.jpg": "/anna-web/static/media/畢業jump.28d77bc931c65f2a3232.jpg",
     "static/media/學士帽_去背.png": "/anna-web/static/media/學士帽_去背.c99eefb56f5473dae83b.png",
+    "static/media/HKA.jpg": "/anna-web/static/media/HKA.ba7e7c80011b2a9381a7.jpg",
     "static/media/2022第27屆大專校院資訊應用服務創新競賽.jpg": "/anna-web/static/media/2022第27屆大專校院資訊應用服務創新競賽.8bd5261e688368154861.jpg",
     "static/media/NTUST2.png": "/anna-web/static/media/NTUST2.3239f7b9cd053ceaa9ae.png",
     "static/media/資料庫管理_餐廳外送平台.png": "/anna-web/static/media/資料庫管理_餐廳外送平台.97c59ac04e8c436cc86f.png",
@@ -17,16 +18,18 @@
     "static/media/系統分析與設計_可議價之二手書網站.png": "/anna-web/static/media/系統分析與設計_可議價之二手書網站.bafe0cf70d8c1e46072c.png",
     "static/media/資料科學_桃園市交通改善計畫.png": "/anna-web/static/media/資料科學_桃園市交通改善計畫.d7027bbb624b48403c33.png",
     "static/media/Java實作記事本.png": "/anna-web/static/media/Java實作記事本.8efbb1de83bc5a42b6ff.png",
+    "static/media/Get Started with API Gateway.png": "/anna-web/static/media/Get Started with API Gateway.ab2698e07524b1c62947.png",
+    "static/media/Google Cloud Essentials.png": "/anna-web/static/media/Google Cloud Essentials.2257eebb955e492227fc.png",
     "static/media/工件辨識.PNG": "/anna-web/static/media/工件辨識.ce47c784912b482c62e3.PNG",
     "static/media/Java實作小畫家.png": "/anna-web/static/media/Java實作小畫家.485d5cddc0a0cce7a512.png",
     "static/media/NCU.png": "/anna-web/static/media/NCU.e4b21c376d0454a4981f.png",
     "static/media/NCUEMBA.jpg": "/anna-web/static/media/NCUEMBA.a06f8ba9cf4084347ef4.jpg",
     "index.html": "/anna-web/index.html",
-    "main.d7a16ad4.css.map": "/anna-web/static/css/main.d7a16ad4.css.map",
-    "main.76af80dc.js.map": "/anna-web/static/js/main.76af80dc.js.map"
+    "main.34b4a735.css.map": "/anna-web/static/css/main.34b4a735.css.map",
+    "main.9414c81f.js.map": "/anna-web/static/js/main.9414c81f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7a16ad4.css",
-    "static/js/main.76af80dc.js"
+    "static/css/main.34b4a735.css",
+    "static/js/main.9414c81f.js"
   ]
 }
