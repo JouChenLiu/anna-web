@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/anna-web/static/css/main.34b4a735.css",
-    "main.js": "/anna-web/static/js/main.9414c81f.js",
+    "main.css": "/anna-web/static/css/main.b329a86e.css",
+    "main.js": "/anna-web/static/js/main.941cf762.js",
     "static/media/poster.jpg": "/anna-web/static/media/poster.38d454cf299b94378643.jpg",
     "static/media/中文履歷.pdf": "/anna-web/static/media/中文履歷.61fd0af8032b9c8331dd.pdf",
     "static/media/TOEIC_760.jpg": "/anna-web/static/media/TOEIC_760.7703ca7a2ece1fc9f734.jpg",
@@ -25,11 +25,11 @@
     "static/media/NCU.png": "/anna-web/static/media/NCU.e4b21c376d0454a4981f.png",
     "static/media/NCUEMBA.jpg": "/anna-web/static/media/NCUEMBA.a06f8ba9cf4084347ef4.jpg",
     "index.html": "/anna-web/index.html",
-    "main.34b4a735.css.map": "/anna-web/static/css/main.34b4a735.css.map",
-    "main.9414c81f.js.map": "/anna-web/static/js/main.9414c81f.js.map"
+    "main.b329a86e.css.map": "/anna-web/static/css/main.b329a86e.css.map",
+    "main.941cf762.js.map": "/anna-web/static/js/main.941cf762.js.map"
   },
   "entrypoints": [
-    "static/css/main.34b4a735.css",
-    "static/js/main.9414c81f.js"
+    "static/css/main.b329a86e.css",
+    "static/js/main.941cf762.js"
   ]
 }
