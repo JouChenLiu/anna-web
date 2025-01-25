@@ -74,6 +74,33 @@ const Services = () => {
           </ul>
         </article>
         {/* End of Data Science */}
+
+        <article className='service'>
+          <div className='service_head'>
+            <h3>Artificial intelligence (AI)</h3>
+          </div>
+
+          <ul className='service_list'>
+            {/* 這邊在寫長一點多列點/或是用一句一句話說明 */}
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>Machine Learning</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>Large Language Model (LLM)</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>Neuro-Linguistic Programming (NLP)</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>Computer Vision</p>
+            </li>
+          </ul>
+        </article>
+        {/* End of Artificial intelligence (AI) */}
       </div>
     </section>
   )

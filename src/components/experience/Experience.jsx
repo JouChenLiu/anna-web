@@ -177,6 +177,20 @@ const Experience = () => {
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
               <div>
+                <h4>Neuro-Linguistic Programming (NLP)</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill className='experience_details-icon' />
+              <div>
+                <h4>Large Language Model (LLM)</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill className='experience_details-icon' />
+              <div>
                 <h4>Computer Vision</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
@@ -220,6 +234,13 @@ const Experience = () => {
               <BsPatchCheckFill className='experience_details-icon' />
               <div>
                 <h4>Vietnamese — beginner</h4>
+                {/* <small className='text-light'>xxx</small> */}
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill className='experience_details-icon' />
+              <div>
+                <h4>Deutsch — beginner</h4>
                 {/* <small className='text-light'>xxx</small> */}
               </div>
             </article>
