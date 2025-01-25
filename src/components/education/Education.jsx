@@ -12,6 +12,7 @@ const Education = () => {
         <section id='education'>
             {/* <h5>What education I have</h5> */}
             <h2>My Education</h2>
+            <h3 className='double'># Master Double Degree Program: NTUST x HKA</h3>
 
             <div className='container education_container'>
                 <div className='education-image'>
