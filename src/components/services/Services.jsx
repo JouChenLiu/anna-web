@@ -92,7 +92,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Neuro-Linguistic Programming (NLP)</p>
+              <p>Natural Language Processing (NLP)</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />

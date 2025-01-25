@@ -177,7 +177,7 @@ const Experience = () => {
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
               <div>
-                <h4>Neuro-Linguistic Programming (NLP)</h4>
+                <h4>Natural Language Processing (NLP)</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
