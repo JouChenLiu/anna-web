@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/anna-web/static/css/main.b329a86e.css",
-    "main.js": "/anna-web/static/js/main.e3975cd6.js",
+    "main.js": "/anna-web/static/js/main.bb105b13.js",
     "static/media/poster.jpg": "/anna-web/static/media/poster.38d454cf299b94378643.jpg",
     "static/media/中文履歷.pdf": "/anna-web/static/media/中文履歷.61fd0af8032b9c8331dd.pdf",
     "static/media/TOEIC_760.jpg": "/anna-web/static/media/TOEIC_760.7703ca7a2ece1fc9f734.jpg",
-    "static/media/English_Resume.pdf": "/anna-web/static/media/English_Resume.0d05ba04247b3ea759d4.pdf",
+    "static/media/English_Resume.pdf": "/anna-web/static/media/English_Resume.86b4841ea8879a6b8030.pdf",
     "static/media/111學年度中央資管專題競賽.jpg": "/anna-web/static/media/111學年度中央資管專題競賽.b2ca0edf4fa077fab56b.jpg",
     "static/media/Multicast.png": "/anna-web/static/media/Multicast.f824369802f50b2bab39.png",
     "static/media/畢業jump.jpg": "/anna-web/static/media/畢業jump.28d77bc931c65f2a3232.jpg",
@@ -26,10 +26,10 @@
     "static/media/NCUEMBA.jpg": "/anna-web/static/media/NCUEMBA.a06f8ba9cf4084347ef4.jpg",
     "index.html": "/anna-web/index.html",
     "main.b329a86e.css.map": "/anna-web/static/css/main.b329a86e.css.map",
-    "main.e3975cd6.js.map": "/anna-web/static/js/main.e3975cd6.js.map"
+    "main.bb105b13.js.map": "/anna-web/static/js/main.bb105b13.js.map"
   },
   "entrypoints": [
     "static/css/main.b329a86e.css",
-    "static/js/main.e3975cd6.js"
+    "static/js/main.bb105b13.js"
   ]
 }
