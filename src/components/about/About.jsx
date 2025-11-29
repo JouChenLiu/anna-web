@@ -14,7 +14,7 @@ const chi = [
     <br />
     在臺灣科技大學的研究領域為 Quantum Network (量子網路)，特別聚焦在量子網路的路由設計和最大化吞吐量等相關議題上。在研究中，以量子位元和量子閘為基礎，探索如何設計高效的量子網路拓樸結構，以降低通信延遲並提升網路性能，同時，關注如何最大化量子通信網路的整體吞吐量，考慮不同協議和通信場景下的最佳化問題。
     <br />
-    在德國卡爾斯魯厄應用科技大學的研究領域尚未確定，修習課程包含人工智慧、資訊安全、以使用者為中心的設計、IT 專案管理等。此外，目前也持續學習大型語言模型、機器學習、資訊安全、軟體工程等專業知識和實作技能，以更全面地提升資訊能力和視野。
+    在德國卡爾斯魯厄應用科技大學的研究領域為軟體測試，專注在利用語言模型提升測試案例的生成效率與品質。我的碩士論文研究提出了一個結合 CodeT5+ 語言模型與多目標強化學習 (MORL) 的方法 ，核心目標是從自然語言的需求描述和函數原型中，自動生成平衡語法正確性、可執行性和覆蓋多樣性等多目標的單元測試案例。修習課程包含人工智慧、資訊安全、以使用者為中心的設計、IT 專案管理等。此外，目前也持續學習大型語言模型、機器學習、資訊安全、軟體工程等專業知識和實作技能，以更全面地提升資訊能力和視野。
   </div>
 ]
 const eng = [
@@ -25,7 +25,7 @@ const eng = [
     <br />
     The research area for my master's double degree at NTUST in Taiwan is Quantum Networks, with a special focus on routing design and maximizing throughput in quantum networks. In my research, based on quantum bits (qubits) and quantum gates, I explore how to design efficient quantum network topologies to reduce communication latency and improve network performance. I also focus on maximizing the overall throughput of quantum communication networks, considering optimization issues under different protocols and communication scenarios.
     <br />
-    The research area for my master's double degree at HKA in Germany has not yet been determined, but the courses studied include artificial intelligence, information security, user centered design, IT project management, etc. In addition, I am continuously learning professional knowledge and practical skills such as large language model, machine learning, cybersecurity, software engineering, etc., to comprehensively enhance my information capabilities and broaden my perspective.
+    The research area for my master's double degree at HKA in Germany is software testing, focusing on improving the efficiency and quality of test case generation using language models. My master's thesis proposed a method combining the CodeT5+ language model and Multi-Objective Reinforcement Learning (MORL). The core objective is to automatically generate unit test cases that balance syntactic correctness, executability, and coverage diversity from natural language requirement descriptions and function prototypes. Courses I took included artificial intelligence, information security, user centered design, IT project management, etc. In addition, I am continuously learning professional knowledge and practical skills such as large language model, machine learning, cybersecurity, software engineering, etc., to comprehensively enhance my information capabilities and broaden my perspective.
   </div>
 ]
 // <div>
