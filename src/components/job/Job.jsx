@@ -57,7 +57,7 @@ const Job = () => {
                 </div>
                 <div className='job-image'>
                     <img src={MULTICAST} alt='MULTICAST Logo' />
-                    <a href='http://www.multicast.com.tw/' target='_blank' rel="noreferrer">Multicast url</a>
+                    {/* <a href='http://www.multicast.com.tw/' target='_blank' rel="noreferrer">Multicast url</a> */}
                 </div>
                 <div>
                     <article className='job_option'>
