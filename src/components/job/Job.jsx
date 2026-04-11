@@ -46,7 +46,7 @@ const Job = () => {
                     <article className='job_option'>
                         <h3><big><b>ADD 流行服飾</b></big></h3>
                         <h3>ADD Clothes</h3>
-                        <h3>Information Assistant Intern</h3>
+                        <h3>Piecework Software Engineer</h3>
                         <button className='intro_ADD' onClick={click}><MdLanguage />{buttonText} </button>
                         <div>
                             {isEng && <div>{eng}</div>}

@@ -12,7 +12,7 @@ const Education = () => {
         <section id='education'>
             {/* <h5>What education I have</h5> */}
             <h2>My Education</h2>
-            <h3 className='double'># Master Double Degree Program: NTUST x HKA</h3>
+            <h3 className='double'># Master Double Degree Program: NTUST x HKA 雙聯碩士</h3>
 
             <div className='container education_container'>
                 <div className='education-image'>
@@ -26,7 +26,7 @@ const Education = () => {
                         <h3><PiStudentBold size={20} /> Master of Computer Science and Business Information Systems,</h3>
                         <h3 className="tab">Department of Computer Science and Business Information Systems</h3>
                         <h3 className="tab">(CS&BIS) (Informatik und Wirtschaftsinformatik, IWI)</h3>
-                        <h4><GiSandsOfTime size={20} /> Sep. 2024 – August 2025 (Expected)</h4>
+                        <h4><GiSandsOfTime size={20} /> Sep. 2024 – April 2026</h4>
                     </article>
                 </div>
                 <div className='education-image'>
@@ -39,7 +39,7 @@ const Education = () => {
                         <h3>National Taiwan University of Science and Technology</h3>
                         <h3><PiStudentBold size={20} /> Master of Business Administration (MBA),</h3>
                         <h3 className="tab">Department of Information Management (IM)</h3>
-                        <h4><GiSandsOfTime size={20} /> Sep. 2023 – August 2025 (Expected)</h4>
+                        <h4><GiSandsOfTime size={20} /> Sep. 2023 – April 2026</h4>
                     </article>
                 </div>
                 <div className='education-image'>
