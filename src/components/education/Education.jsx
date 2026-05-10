@@ -21,12 +21,12 @@ const Education = () => {
                 </div>
                 <div>
                     <article className='education_option'>
-                        <h3><big><b>德國 卡爾斯魯厄應用科技大學 電腦科學與商業資訊系統 碩士班</b></big></h3>
+                        <h3><big><b>德國 卡爾斯魯厄應用科技大學 商業資訊系統 碩士班</b></big></h3>
                         <h3>Karlsruhe University of Applied Science (Hochschule Karlsruhe, HKA)</h3>
-                        <h3><PiStudentBold size={20} /> Master of Computer Science and Business Information Systems,</h3>
-                        <h3 className="tab">Department of Computer Science and Business Information Systems</h3>
+                        <h3><PiStudentBold size={20} /> Master of Science (M.Sc.) in Business Information Systems,</h3>
+                        <h3 className="tab">Faculty of Computer Science and Business Information Systems</h3>
                         <h3 className="tab">(CS&BIS) (Informatik und Wirtschaftsinformatik, IWI)</h3>
-                        <h4><GiSandsOfTime size={20} /> Sep. 2024 – April 2026</h4>
+                        <h4><GiSandsOfTime size={20} /> Sep. 2024 – May 2026</h4>
                     </article>
                 </div>
                 <div className='education-image'>
@@ -37,9 +37,9 @@ const Education = () => {
                     <article className='education_option'>
                         <h3><big><b>國立臺灣科技大學 資訊管理系 碩士班</b></big></h3>
                         <h3>National Taiwan University of Science and Technology</h3>
-                        <h3><PiStudentBold size={20} /> Master of Business Administration (MBA),</h3>
-                        <h3 className="tab">Department of Information Management (IM)</h3>
-                        <h4><GiSandsOfTime size={20} /> Sep. 2023 – April 2026</h4>
+                        <h3><PiStudentBold size={20} /> Master of Business Administration (MBA) in Information Management,</h3>
+                        <h3 className="tab">School of Management</h3>
+                        <h4><GiSandsOfTime size={20} /> Sep. 2023 – May 2026</h4>
                     </article>
                 </div>
                 <div className='education-image'>
@@ -50,8 +50,9 @@ const Education = () => {
                     <article className='education_option'>
                         <h3><big><b>國立中央大學 資訊管理學系 學士班</b></big></h3>
                         <h3>National Central University</h3>
-                        <h3 ><PiStudentBold size={20} /> Bachelor of Business Administration (BBA),</h3>
-                        <h3 className="tab">Department of Information Management (IM)</h3>
+                        <h3 ><PiStudentBold size={20} /> Bachelor of Business Administration (BBA) in Information Management,</h3>
+                        {/* <h3 className="tab">Department of Information Management (IM)</h3> */}
+                        <h3 className="tab">School of Management</h3>
                         <h4><PiCertificateLight size={20} /> Minor Specialty: Programming Design in the Department of Computer Science Information Engineering (CSIE)</h4>
                         <h4><GiSandsOfTime size={20} /> Sep. 2019 – June 2023</h4>
                     </article>
