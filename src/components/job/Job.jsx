@@ -10,14 +10,14 @@ const chi = [
     <div>
         <ul>
             <li>開發「進銷貨系統」，使用Python，擷取Excel進貨檔案的部分資料，同時提供使用者輸入需客製化商品詳細資料的內容，再將所有資料加以處理和調整成需要的格式，最後匯出一份該公司內部所需的銷售商品Excel檔案，用於列印商品吊牌和日後進銷售所使用。</li>
-            <li>開發「銷售資料Email寄送系統」，使用Python、SMTP、MIME等，分別傳輸當日或特定日期的銷售資料給對應的廠商，目前廠商數量有40間。當日銷售只需一個按鍵即可自動寄送銷售檔給每個廠商，特定日期或廠商可透過input個別寄送。此系統解決該公司原系統寄送郵件失敗和中斷之問題。</li>
+            <li>開發「自動化報表 Email 寄送系統」，使用 Python、SMTP、MIME、CustomTkinter、PyInstaller 及 Inno Setup 等技術工具。此系統負責將當日或特定日期的銷售、庫存及降價報表，傳輸給對應的 40 間合作廠商。當日報表只需按一個按鍵即可自動寄送給每個廠商；若需針對特定日期或廠商，也可透過現代化的圖形介面（GUI）輕鬆完成個別寄送。系統透過 Inno Setup 部署為獨立桌面應用程式，成功解決了該公司原系統郵件寄送失敗與傳輸中斷的問題。</li>
         </ul>
     </div>
 ]
 const eng = [
     <div>
         <p className="tab">Developed an "Inventory and Sales System" using Python, which extracts relevant data from Excel purchase files. It allows users to input customized details for specific products. The system processes and adjusts all data into the required format, and finally exports an Excel file containing sales information tailored for internal use. This file is utilized for printing product tags and future sales tracking.</p>
-        <p className="tab">Developed a "Sales Data Email Sending System" using Python, SMTP, MIME, etc. It facilitates the transmission of daily or specific date sales data to corresponding vendors. Currently, there are 40 vendors. With a single button click, the system automatically sends sales files to each vendor for the current day's sales. For specific dates or vendors, individualized sending can be done through input. This system resolves the company's previous issues of failed and interrupted email transmissions from the original system.</p>
+        <p className="tab">Developed an "Automated Report Email System" using Python, SMTP, MIME, CustomTkinter, PyInstaller, and Inno Setup. It facilitates the transmission of daily or specific date sales, stock, and discount reports to 40 corresponding vendors. With a single button click, the system automatically sends the report files to each vendor. For specific dates or vendors, individualized sending can be done effortlessly through the modern GUI. Deployed as a standalone application via Inno Setup, this system resolves the company's previous issues of failed and interrupted email transmissions from the original system.</p>
     </div>
 ]
 
